@@ -14,10 +14,10 @@ st.title("Hi,I am Pavan Kalyan")
 
 st.subheader("I am a Data Science Enthusiast \nIntern at Innomatics Research Labs")
 
-linkedin = 'https://www.linkedin.com/in/mekapothula-pavan-kalyan-294bb21b5/overlay/contact-info/'
+
 
 if st.button('Linkedin'):
-    webbrowser.open_new_tab(linkedin)
+    webbrowser.open_new_tab(https://pavanvis-innomatics-internship-home-wiqze2.streamlit.app/)
 
 
 st.balloons()
