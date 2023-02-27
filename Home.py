@@ -17,7 +17,7 @@ PARENT_DIR = os.path.join(FILE_DIR,os.pardir)
 # absolute path of directory_of_interest
 dir_of_interest = os.path.join(PARENT_DIR,"pavan")
 
-IMAGE_PATH = os.path.join(dir_of_interest,"pavan","photo.png")
+IMAGE_PATH = os.path.join(dir_of_interest,"","photo.png")
 
 img = image.imread(IMAGE_PATH)
 st.image(img)
